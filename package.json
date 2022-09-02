@@ -1,0 +1,29 @@
+{
+  "name": "@example/basics",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "@analogjs/astro-angular": "^0.1.0-beta.1",
+    "@angular-devkit/build-angular": "^14.2.1",
+    "@angular/common": "^14.2.0",
+    "@angular/compiler": "^14.2.0",
+    "@angular/compiler-cli": "^14.2.0",
+    "@angular/core": "^14.2.0",
+    "@angular/forms": "^14.2.0",
+    "@angular/language-service": "^14.2.0",
+    "@angular/platform-browser": "^14.2.0",
+    "@angular/platform-browser-dynamic": "^14.2.0",
+    "@angular/platform-server": "^14.2.0",
+    "astro": "^1.1.1",
+    "rxjs": "^7.5.6",
+    "tslib": "^2.4.0",
+    "zone.js": "^0.11.8"
+  }
+}
